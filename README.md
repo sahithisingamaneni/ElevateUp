@@ -37,7 +37,7 @@ You can deploy this template to Vercel with the button below:
 You can also clone & create this repo locally with the following command:
 
 ```bash
-npx create-next-app liftoff --example "https://github.com/Ajay-Dhangar/ai-mock-interview"
+npx create-next-app liftoff --example "https://github.com/sahithisingamaneni/ElevateUp"
 ```
 
 ## Tech Stack + Features
