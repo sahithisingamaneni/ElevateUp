@@ -1,6 +1,6 @@
 <a href="https://ai-mock-interview.vercel.app/">
-  <img alt="Liftoff – AI-Powered Mock Interviews" src="https://ai-mock-interview.vercel.app/opengraph-image">
-  <h1 align="center">Liftoff Interviews</h1>
+  <img alt="Elevate – AI-Powered Mock Interviews" src="https://ai-mock-interview.vercel.app/opengraph-image">
+  <h1 align="center">Elevate Interviews</h1>
 </a>
 
 <p align="center">
@@ -82,4 +82,4 @@ We then send the audio directly to be transcribed by OpenAI's Whisper endpoint, 
 
 ## Author
 
-- Ajay-Dhangar ([@AJAYDHA27250016](https://twitter.com/AJAYDHA27250016))
+- Sahithi
