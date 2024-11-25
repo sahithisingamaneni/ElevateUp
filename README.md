@@ -11,7 +11,7 @@
   <a href="https://twitter.com/AJAYDHA27250016">
     <img src="https://img.shields.io/twitter/follow/AJAYDHA27250016_me?style=flat&label=Follow&logo=twitter&color=0bf&logoColor=fff" alt="Ajay's follower count" />
   </a>
-  <a href="https://github.com/Ajay-Dhangar/ai-mock-interview">
+  <a href="https://github.com/sahithisingamaneni/ElevateUp">
     <img src="https://img.shields.io/github/stars/Ajay-Dhangar/ai-mock-interview?label=Tameyer41%2Fliftoff" alt="Liftoff repo star count" />
   </a>
 </p>
