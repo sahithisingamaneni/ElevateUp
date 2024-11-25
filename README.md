@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/twitter/follow/AJAYDHA27250016_me?style=flat&label=Follow&logo=twitter&color=0bf&logoColor=fff" alt="Ajay's follower count" />
   </a>
   <a href="https://github.com/sahithisingamaneni/ElevateUp">
-    <img src="https://img.shields.io/github/stars/Ajay-Dhangar/ai-mock-interview?label=Tameyer41%2Fliftoff" alt="Liftoff repo star count" />
+   
   </a>
 </p>
 
@@ -39,12 +39,6 @@ You can also clone & create this repo locally with the following command:
 ```bash
 npx create-next-app liftoff --example "https://github.com/sahithisingamaneni/ElevateUp"
 ```
-
-## Tech Stack + Features
-
-![Landing Page](https://ik.imagekit.io/9km72asqu/CleanShot_2023-05-31_at_12.43.54_svKkqF7dA.png?updatedAt=1685551454273)
-
-![Interview Selection](https://ik.imagekit.io/9km72asqu/CleanShot_2023-05-31_at_13.35.55_xohCRNMlJ.png?updatedAt=1685554576155)
 
 ### Frameworks
 
